@@ -13,6 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [artikel_8](ebook/artikel_8.pdf) - Michael & Anne (2021)
 10. [artikel_9](ebook/artikel_9.pdf) - Syaira Aulia, dkk. (2025)
 11. [artikel_10](ebook/artikel_10.pdf) - Susan Rhood (2020)
-12. [UGC_Nazila Aulia Putri_13040124140114](ebook/UGC_Nazila Aulia Putri_13040124140114.pdf) - Nazila Aulia Putri (2026)
+12. [UGC_Nazila_Aulia_Putri_13040124140114](ebook/UGC_Nazila_Aulia_Putri_13040124140114.pdf) - Nazila Aulia Putri (2026)
 ---
 *Powered by GitHub Pages*
